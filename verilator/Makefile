@@ -94,4 +94,4 @@ $(EXE): $(VOUT) $(C_SRC)
 	$(EXE)
 
 clean:
-	rm -f obj_dir
+	rm -rf obj_dir
